@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AxD 5/30/2017 20:10",
+	"super" : "Cell",
+	"category" : "Mirrors-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BlankCell",
+	"type" : "normal"
+}

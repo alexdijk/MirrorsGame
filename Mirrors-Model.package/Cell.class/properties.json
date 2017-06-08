@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AxD 6/3/2017 21:12",
+	"super" : "Object",
+	"category" : "Mirrors-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exitSides",
+		"activeSegments",
+		"gridLocation"
+	],
+	"name" : "Cell",
+	"type" : "normal"
+}

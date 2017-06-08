@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "AxD 5/30/2017 20:10",
+	"super" : "Object",
+	"category" : "Mirrors-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells",
+		"laserIsActive",
+		"numberOfColumns",
+		"numberOfRows",
+		"laserBeamPath"
+	],
+	"name" : "Grid",
+	"type" : "normal"
+}

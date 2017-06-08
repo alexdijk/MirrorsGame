@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AxD 6/5/2017 18:54",
+	"super" : "Object",
+	"category" : "Mirrors-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GridFactory",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AxD 6/4/2017 23:13",
+	"super" : "CellRenderer",
+	"category" : "Mirrors-Graphics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BlankCellRenderer",
+	"type" : "normal"
+}

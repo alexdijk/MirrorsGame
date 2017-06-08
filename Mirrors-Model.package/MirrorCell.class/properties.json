@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AxD 6/3/2017 22:15",
+	"super" : "Cell",
+	"category" : "Mirrors-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leansLeft"
+	],
+	"name" : "MirrorCell",
+	"type" : "normal"
+}

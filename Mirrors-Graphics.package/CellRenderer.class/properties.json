@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AxD 6/4/2017 23:09",
+	"super" : "Object",
+	"category" : "Mirrors-Graphics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"targetForm",
+		"cellLocation"
+	],
+	"name" : "CellRenderer",
+	"type" : "normal"
+}

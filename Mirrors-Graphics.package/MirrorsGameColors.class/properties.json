@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AxD 6/6/2017 22:12",
+	"super" : "Object",
+	"category" : "Mirrors-Graphics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MirrorsGameColors",
+	"type" : "normal"
+}

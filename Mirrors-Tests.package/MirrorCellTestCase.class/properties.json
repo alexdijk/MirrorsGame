@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AxD 6/3/2017 21:57",
+	"super" : "TestCase",
+	"category" : "Mirrors-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MirrorCellTestCase",
+	"type" : "normal"
+}
