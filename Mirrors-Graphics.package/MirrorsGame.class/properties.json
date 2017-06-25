@@ -7,7 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"grid",
-		"board"
+		"board",
+		"gamepanel",
+		"controlpanel"
 	],
 	"name" : "MirrorsGame",
 	"type" : "normal"

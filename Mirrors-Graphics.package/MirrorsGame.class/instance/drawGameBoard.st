@@ -8,5 +8,5 @@ drawGameBoard
 		cell := self grid at: x@y.
 		renderer := CellRenderer rendererFor: cell grid: self grid form: self board.
 		m := renderer render.
-		self board addMorph: m.
+		self gamepanel addMorph: m.
 		 ]].

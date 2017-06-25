@@ -4,5 +4,5 @@ makeGamePanel
 	
 	| bm |
 	"bm := BorderedMorph new addMorph: self board."
-	bm := self board.
+	bm := BorderedMorph new color: (MirrorsGameColors boardBGColor).
 	^bm
